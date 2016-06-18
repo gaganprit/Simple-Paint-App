@@ -1,0 +1,51 @@
+div{
+	position:fixed;
+	width:98.5%;
+}
+
+canvas{
+    position: absolute;	
+    top: 120px;
+    left:190px;
+    border: 5px solid black;
+    background-color:white;
+}
+
+#btnMve{
+position:absolute;
+top: 200px;
+left: 1120px;
+height:75px;
+width:70px;
+	
+}	
+
+#btnClear {
+position:absolute;
+top:300px;
+left: 1120px;
+height:75px;
+width:70px;
+}
+
+a.moveTool span {
+    display:none; padding:5px 5px;
+    margin-top:250px; margin-left:1130px;
+    width:120px; line-height:16px;
+}
+
+a.moveTool:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #DCA; background:#fffAF0;
+}
+    
+a.clearTool span {
+    display:none; padding:5px 5px;
+    margin-top:350px; margin-left:1130px;
+    width:120px; line-height:16px;
+}
+
+a.clearTool:hover span{
+    display:inline; position:absolute; color:#111;
+    border:1px solid #DCA; background:#fffAF0;
+}
