@@ -1,2 +1,4 @@
 # Simple-Paint-App
-This app has been developed using Canvas HTML, CSS and Javascript. 
+
+A simple paint application created using HTML5, CSS, Javascript to draw, move, delete circles inside the paint window.
+
